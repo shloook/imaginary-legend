@@ -4,9 +4,6 @@ Simple collection of browser-based visual experiments and demos built with HTML,
 ## Files in this folder
 - ani2flower.html — Animated flower circle canvas demo.
 - ani2flower.js — (expected) script for ani2flower.html (ensure it exists alongside the HTML).
-- galaxy.html — 3D Milky Way Explorer demo (uses Three.js).
-- hh.html — HTML fragment / alternate page (project history or variant).
-- main.js / galaxy.js — Main application script(s) for the galaxy explorer.
 - styles.css — Project stylesheet used by HTML pages.
 - read.md — This file (quick project summary).
 - README.md — (optional) longer project readme if present.
