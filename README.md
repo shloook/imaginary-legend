@@ -31,13 +31,10 @@ Simple collection of browser-based visual experiments and demos built with HTML,
 ## Notes
 - Ensure related JS and CSS files are in the same directory as their HTML or update the <link> / <script> paths.
 - If an HTML page runs code before the DOM is ready, either place its script before </body> or add `defer`/`DOMContentLoaded` handling.
-- For Three.js demos, prefer using the CDN or a local copy; run via HTTP server to avoid CORS issues.
+- For Three.js demos, prefer using the CDN or a local copy; run via an HTTP server to avoid CORS issues.
 
 ## Debugging
 - Use DevTools Console for errors (missing files, syntax errors).
 - Confirm file names/paths match those referenced in HTML.
-- If animations don't appear, verify canvas sizing and that corresponding JS files are loaded.
-
-License: MIT (default, adapt as needed).
-```// filepath: /Users/shlok/cosmic_partical_symphony/read.md
+- If animations don't appear, verify canvas sizing and that the corresponding JS files are loaded.
 
